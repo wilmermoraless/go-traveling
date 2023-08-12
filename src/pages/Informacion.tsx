@@ -14,7 +14,7 @@ export const Informacion = () => {
   }, []);
 
   return (
-    
+    //informacion de los hoteles
     <div >
       <Link to={'/informacion'} >
        <Title texto="Busca un hotel cerca de ti" />
